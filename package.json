@@ -1,5 +1,5 @@
 {
-  "name": "rich-text",
+  "name": "@minervaproject/rich-text",
   "version": "3.1.0",
   "description": "OT type for rich text",
   "author": "Jason Chen <jhchen7@gmail.com>",
